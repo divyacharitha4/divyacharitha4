@@ -1,3 +1,16 @@
+<h1 align="center">Hi there, I'm Divya! 👋</h1>
+
+<h3 align="center">
+Backend Developer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer;AI%2FML+Enthusiast;Cloud+Learner;Backend+Developer&center=true&width=500&height=50&color=36BCF7&vCenter=true&size=28">
+</p>
+
+<hr>
+
+
 # 💫 About Me:
 🎓 Computer Science Student specializing in AI/ML  <br>💻 Machine Learning & Full Stack Developer  <br>🤖 Built real-world AI-driven applications  <br><br>
 
