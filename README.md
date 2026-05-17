@@ -1,4 +1,4 @@
-# Hi there, I'm Rishitha! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hi there, I'm Divya Charitha! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div align="center">
   <!-- Adjust 'color', 'size', 'lines', and 'width' as you like -->
