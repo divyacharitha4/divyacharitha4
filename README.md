@@ -1,19 +1,24 @@
-# Hi there, I'm Divya Charitha! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hi there, I'm Divya Charitha! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
 
 <div align="center">
-  <!-- Adjust 'color', 'size', 'lines', and 'width' as you like -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=45&lines=Software+Engineer+%7C+AI/ML+Enthusiast;Backend+Developer;Software+Developer+;Always+Learning+New+Things+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=55&lines=Software+Engineer;AI%2FML+Enthusiast;Backend+Developer;Always+Learning+New+Things+💻" alt="Typing SVG" />
 </div>
 
+---
 
+## 🙋‍♂️ About Me
+🎓 Computer Science Student specializing in AI/ML  <br>
+💻 Machine Learning & Full Stack Developer  <br>
+🤖 Built real-world AI-driven applications  
 
-# 🙋‍♂️ About Me
-🎓 Computer Science Student specializing in AI/ML  <br>💻 Machine Learning & Full Stack Developer  <br>🤖 Built real-world AI-driven applications  <br><br>
- ---
+---
+
 ## 🌐 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyacharitha4@gmail.com)
+
 ---
+
 ## 🛠️ Tech & Tools
 
 #### Programming Languages
@@ -38,7 +43,6 @@
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Microservices](https://img.shields.io/badge/microservices-%23000000.svg?style=for-the-badge&logo=microservices&logoColor=white)
-
 
 #### Machine Learning and AI
 ![Machine Learning](https://img.shields.io/badge/machine%20learning-%23FF7F50.svg?style=for-the-badge&logo=machinelearning&logoColor=white)
@@ -78,6 +82,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=divyacharitha4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
 [![](https://komarev.com/ghpvc/?username=divyacharitha4&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
